@@ -4,7 +4,7 @@
     "identity": {
       "type": "UserAssigned",
       "userAssignedIdentities": {
-        "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.ManagedIdentity/userAssignedIdentities/<identityName>": {}
+        "<imgBuilderId>": {}
       }
     },
     "properties": {
